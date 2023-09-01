@@ -34,4 +34,26 @@
 }
 .dic-section{
    margin-top: 120px;
+   margin-bottom: 120px;
+}
+
+.img-section img{
+   width:55%;
+   /* margin-left: 80px; */
+}
+.img1{
+   margin-left: 150px;
+   border-left: 30px solid #08088A;
+   margin-bottom: 10px;
+   
+}
+.img2{
+   /* margin-right: 100px; */
+   border-right: 30px solid #08088A;
+   
+}
+.img3{
+   margin-left: 150px;
+   border-left: 30px solid #08088A;
+   margin-top: 10px;
 }
