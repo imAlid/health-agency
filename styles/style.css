@@ -1,7 +1,25 @@
-.logo{
-   width: 150px;
+.logo {
+  width: 150px;
 }
-#navbar{
-   padding-left: 20px;
-   padding-right: 20px;
+#navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+  background: #fafafa;
+}
+.header-img {
+  width: 100%;
+  
+  background: linear-gradient(
+      rgba(2, 0, 48, 0.577) 100%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    url("../photos/1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fafafa;
+}
+.header-text {
+  font-size: 5vw;
+}
+#text-center {
 }
