@@ -57,3 +57,9 @@
    border-left: 30px solid #08088A;
    margin-top: 10px;
 }
+.hover li:hover{
+   background: #b7b7e8;
+   transition: 0.3s;
+   border-radius: 8px;
+   
+}
