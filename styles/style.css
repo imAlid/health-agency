@@ -8,7 +8,7 @@
 }
 .header-img {
   width: 100%;
-  
+
   background: linear-gradient(
       rgba(2, 0, 48, 0.577) 100%,
       rgba(0, 0, 0, 0.5) 100%
@@ -21,62 +21,57 @@
 .header-text {
   font-size: 5vw;
 }
-.dic img{
-   width: 50%;
-   
+.dic img {
+  width: 50%;
 }
-#link{
-   text-decoration: none;
-   font-size: 20px;
+#link {
+  text-decoration: none;
+  font-size: 20px;
 }
-.text-color{
-   color: #08088A;
+.text-color {
+  color: #08088a;
 }
-.dic-section{
-   margin-top: 120px;
-   margin-bottom: 120px;
+.dic-section {
+  margin-top: 120px;
+  margin-bottom: 120px;
 }
 
-.img-section img{
-   width:55%;
-   /* margin-left: 80px; */
+.img-section img {
+  width: 55%;
+  /* margin-left: 80px; */
 }
-.img1{
-   margin-left: 150px;
-   border-left: 30px solid #08088A;
-   margin-bottom: 10px;
-   
+.img1 {
+  margin-left: 150px;
+  border-left: 30px solid #08088a;
+  margin-bottom: 10px;
 }
-.img2{
-   /* margin-right: 100px; */
-   border-right: 30px solid #08088A;
-   
+.img2 {
+  /* margin-right: 100px; */
+  border-right: 30px solid #08088a;
 }
-.img3{
-   margin-left: 150px;
-   border-left: 30px solid #08088A;
-   margin-top: 10px;
+.img3 {
+  margin-left: 150px;
+  border-left: 30px solid #08088a;
+  margin-top: 10px;
 }
-.hover li:hover{
-   background: #b7b7e8;
-   transition: 0.3s;
-   border-radius: 8px;
-   
+.hover li:hover {
+  background: #b7b7e8;
+  transition: 0.3s;
+  border-radius: 8px;
 }
 
 .service-section {
-   color: #08088A;
-   margin-bottom: 50px;
+  color: #08088a;
+  margin-bottom: 50px;
 }
-.bottom-mg{
-   margin-bottom: 120px;
+.bottom-mg {
+  margin-bottom: 120px;
 }
-#mgt{
-   margin-top: 120px;
+#mgt {
+  margin-top: 120px;
 }
-.footer{
-   background: #08088A;
-   color: white;
-   padding: 8px;
-   
+.footer {
+  background: #08088a;
+  color: white;
+  padding: 8px;
 }
